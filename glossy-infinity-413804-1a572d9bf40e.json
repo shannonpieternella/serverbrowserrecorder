@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "glossy-infinity-413804",
+  "private_key_id": "1a572d9bf40ef5de0ae9358301ee830ef5d3552f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDImTWumHbhIJ90\nUH9KItZ8Z4CP/NpLUJgSIerTE4kQgZYkKj06i746L8wUFth4PD7+WumR2gN2rCJV\nkYF2M60aDj9IPRh6aq3SklvyurRz2Ic7/EtB1RQjLxnJA9GTPQF4s4rV9chjsQE3\nDb/rRFeJvUxn4J7xA+MEa/GP+EeNCASE36wDfrNHCm/nGBxOuN+qzIZrQZfpQe7w\nWf1k+R+3Le80hcIxlUyN/GrIQGVZGdjXn4stksU4/Y9zvwZZ1SwJ94i1kUWJ4xzS\nCGK2A0q42FBNy7H+eM6V5CvEHVsYXgq7dHh5xb6NTm14NBPfz25isSNyelxyZZNG\nPzZ8JC5/AgMBAAECggEASFtXTUCqlN8XFTYaDAxP8LTG32k19ne+OsAoO3Xu+Vi8\n5xOjXVRdzBBEnTR2ZbxZfpcdbCJHII3LnrDrEU9nj5/2/KApDbMgOvXXG9Fz2NuQ\nQDdrj/YDmwNY2jS56lHVj4u3tyC+ZRNKXGjlwr+2kbUJ8+hGfKpJv2UOT7+fU4Oe\nuZY/H/dkM4QyDvKwYj4ULX++E1LBoqFB1bxEyws/AQUl/CA7tNknLXDY/OIHPgjX\n7sNFZFDy/s5TmimQQ3bWTmaKdp1KNr82i5IFOvTJkbRQ9xJpf3V5tn2I5UPkyK0+\nVQ1pgcnyq7CVpPPY754FhgIUCSJwTVOOiNtBc6ROSQKBgQDsRj64s009XAPz4RbF\niQJE8VIEiXj0hNldS7e04CAWTMN9rIaSZWh2m6GhK4CpgxD36uQNFfV9nSeD1ATn\n+El9xZPjHia3K8e/FY+O2pbGjrsCBTFh0HaE4gO6OGDBti4PJ0YBuIrtTuhOrwH1\nccBrjpanM6XkB6XMjEOiPHg96QKBgQDZWHvq0LnzowRNMiSVt/Mac0MTnJCBPj8/\n/tSO4nH+wxyeUYG1hGvnzaHRYqC00spVi28d9DLiMdctlbgLsHaamppsTttiJUfg\ngLRFnTWNPVUV+kqzWyxG2tqu/l92ANvHdwKSa+wT5ZRR6ozah8dc13Q7oqTp/2C5\nK0rUicTAJwKBgA8+KOW5i44d1ZNyPgnYYPEZsHTieY8s0ukV7XAZ1Xga07HT44qm\nSCr+t1qyd8Z30ixsVvIRLJlB/j6e+wIMHpGioXvRgiXnCSfmuDA7IecFZkMnGpx4\n2myQODVXVcapfic0HWwW/793i70nxTSUdhl6RXXb+yPO6n9bvTFGPWuhAoGBAKmY\nrSE+/EsMAnhGT1vwrScPl+C+w9fF/c7vB2fzdSZpk3RKf59nlFfOEp3zixlufmog\nInXKLsZoQ9MTSAj/Cp17VFJ9ehzsoFijtYe4s6fhmvpKU23/D96+OfRhE5Zd9yF/\nUSd2RUIFXCZLktuXJc7hZJaARJU/LHdxO7P7SObzAoGACCq1wrFRgnCLsbF7N3GU\ncUw+bCSanb4Z0PjE+k7sN5hSYJZ/NQZFvhTJZApZSwnt+V1ljv+O1JanBA7QYeP4\nwWtrgYyvbTsoWzPNTogWsGvE8fZ/Lcwxsn40KzKQtSJUOpy/DGn1khI2LWRoshLm\nvY4vzqnXnhxtx3fWqxYEqiU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "webrecording@glossy-infinity-413804.iam.gserviceaccount.com",
+  "client_id": "109347730067177285266",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/webrecording%40glossy-infinity-413804.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
