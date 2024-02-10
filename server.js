@@ -31,7 +31,9 @@ app.get('/generate-signed-url', async (req, res) => {
     const fileName = `uploads/${Date.now()}_video.webm`;
     const [url] = await bucket.file(fileName).getSignedUrl(options);
 
-    res.status(200).json({ url });
+    // Send only the URL without query parameters
+    const cleanUrl = url.split('?')[0];
+    res.status(200).json({ url: cleanUrl });
   } catch (err) {
     console.error('Error generating signed URL:', err);
     res.status(500).json({ message: 'Error generating signed URL.', error: err.message });
@@ -39,9 +41,10 @@ app.get('/generate-signed-url', async (req, res) => {
 });
 
 app.get('/', (req, res) => {
-  res.send('Welcome to the Video Upload Serverr!!');
+  res.send('Welcome to the Video Upload Server!');
 });
 
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
+
