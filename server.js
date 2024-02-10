@@ -39,7 +39,7 @@ app.get('/generate-signed-url', async (req, res) => {
 });
 
 app.get('/', (req, res) => {
-  res.send('Welcome to the Video Upload Server!');
+  res.send('Welcome to the Video Upload Serverr!!');
 });
 
 app.listen(port, () => {
